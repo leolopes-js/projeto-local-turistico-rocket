@@ -16,6 +16,7 @@
 }
 
 h1 {
+  margin-top: 8px;
   font-size: 36px;
   line-height: 49px;
   color: #1B1B1B;
@@ -29,7 +30,9 @@ h1 {
   color: #E1624F;
 }
 
-img {
+
+#descriptionImage img {
+  margin-top: 40px;
   border-radius: 28px;
   width: 100%;
 }
